@@ -1,3 +1,7 @@
+body{
+  margin: 0% !important;
+  overflow-x:hidden !important;
+}
 /*!
  * Font Awesome Free 5.13.1 by @fontawesome - https://fontawesome.com
  * License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
@@ -1743,7 +1747,7 @@ readers do not read off random characters that represent icons */
 .fa-fonticons-fi:before {
   content: "\f3a2"; }
 
-.fa-football-ball:before {
+.fa--ball-ball:before {
   content: "\f44e"; }
 
 .fa-fort-awesome:before {
@@ -4588,4 +4592,70 @@ readers do not read off random characters that represent icons */
 
  .logo img {
   height: 70px;
+ }
+
+
+
+
+ /* My CSS  */
+
+ .item .class_box .class_Img img{
+  width: 100%;
+  height: 220px;
+  
+ }
+
+  .galleryImg img{
+      width: 100%;
+      height: 220px;
+ }
+ 
+ .aboutImg img{
+  height: 660px;
+ }
+
+  .mission img{
+     border-radius: 160px;
+    box-shadow: 9px 10px 8px 10px;
+
+ }
+ .mission img:hover{
+  border-radius: 90px;
+ }
+
+ .about_para p{
+    padding-top: 90px;
+ }
+
+ .blogImg img{
+     width: 100%;
+     height: 230px;
+ }
+
+ 
+
+ a.nav-link.active{
+  background-color: orange !important;
+  height: auto !important;
+  width: auto !important;
+  padding: 20px !important;
+  margin: 17PX 21PX 25px 17px;
+ }
+
+ a.nav-link:hover{
+  background-color: orange !important;
+  height: auto !important;
+  width: auto !important;
+  padding: 20px !important;
+  margin: 17PX 21PX 25px 17px;
+ }
+
+ .classDetails-wrap .row .col-lg-12 .class_left {
+      background-color: rgb(243, 231, 210);
+      padding: 18px;
+ }
+
+ .blog_box .path_box{
+  width: 100%;
+  height: 290px;
  }
