@@ -4666,6 +4666,11 @@ readers do not read off random characters that represent icons */
  .classDetails-wrap .row .col-lg-12 .class_left {
       background-color: rgb(243, 231, 210);
       padding: 18px;
+      
+ }
+
+ .classDetails-wrap li{
+  padding-left: 50px;
  }
 
  .blog_box .path_box{
@@ -4676,3 +4681,14 @@ readers do not read off random characters that represent icons */
   .tp-banner {
     color: black;
   }
+
+   .about-wrap{
+    background-color: rgb(220, 220, 232);
+   }
+
+   .about-wrap .container {
+    background-color: rgb(189, 189, 201);
+    padding: 45px;
+   }
+
+   
