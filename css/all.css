@@ -4672,6 +4672,9 @@ readers do not read off random characters that represent icons */
  .classDetails-wrap li{
   padding-left: 50px;
  }
+ .innerContent-wrap{
+  background-color: rgb(249, 242, 235);
+ }
 
  .blog_box .path_box{
   width: 100%;
