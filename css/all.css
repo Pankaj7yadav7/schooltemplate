@@ -4613,6 +4613,10 @@ readers do not read off random characters that represent icons */
  .aboutImg img{
   height: 400px;
  }
+ .aboutsImg img{
+  height: 680px;
+ }
+
 
  .about-wrap h1  {
    padding-top: 60px;
