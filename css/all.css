@@ -4611,8 +4611,17 @@ readers do not read off random characters that represent icons */
  }
  
  .aboutImg img{
-  height: 660px;
+  height: 400px;
  }
+
+ .about-wrap h1  {
+   padding-top: 60px;
+   margin: 110px;
+  
+ } 
+ .about-wrap p  {
+  font-size: 16px;
+} 
 
   .mission img{
      border-radius: 160px;
