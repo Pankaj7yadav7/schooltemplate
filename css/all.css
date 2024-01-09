@@ -4683,11 +4683,11 @@ readers do not read off random characters that represent icons */
   }
 
    .about-wrap{
-    background-color: rgb(220, 220, 232);
+    background-color: rgb(232, 232, 236);
    }
 
    .about-wrap .container {
-    background-color: rgb(189, 189, 201);
+    background-color: rgb(212, 212, 215);
     padding: 45px;
    }
 
